@@ -1,0 +1,28 @@
+{
+  "name": "fs-trace",
+  "main": "./lib/index",
+  "version": "0.0.0",
+  "description": "Watch filesystem events",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "fs-trace:events"
+  },
+  "repository": "https://github.com/smashwilson/fs-trace",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "dom-listener": "^0.1.2",
+    "etch": "^0.12.6"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  },
+  "standard": {
+    "globals": [
+      "atom"
+    ]
+  }
+}
