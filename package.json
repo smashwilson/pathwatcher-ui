@@ -1,13 +1,13 @@
 {
-  "name": "fs-trace",
+  "name": "pathwatcher-ui",
   "main": "./lib/index",
   "version": "0.0.0",
   "description": "Watch filesystem events",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "fs-trace:events"
+    "atom-workspace": "pathwatcher-ui:watch-directory"
   },
-  "repository": "https://github.com/smashwilson/fs-trace",
+  "repository": "https://github.com/smashwilson/pathwatcher-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
