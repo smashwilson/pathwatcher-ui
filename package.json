@@ -7,6 +7,9 @@
   "activationCommands": {
     "atom-workspace": "pathwatcher-ui:watch-directory"
   },
+  "deserializers": {
+    "EventPanel": "deserializeEventPanel"
+  },
   "repository": "https://github.com/smashwilson/pathwatcher-ui",
   "license": "MIT",
   "engines": {
