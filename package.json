@@ -5,7 +5,10 @@
   "description": "Watch filesystem events",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": ["pathwatcher-ui:watch-directory", "pathwatcher-ui:open-dashboard"]
+    "atom-workspace": [
+      "pathwatcher-ui:watch-directory",
+      "pathwatcher-ui:open-dashboard"
+    ]
   },
   "deserializers": {
     "EventPanel": "deserializeEventPanel",
