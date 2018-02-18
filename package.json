@@ -22,7 +22,7 @@
   "dependencies": {
     "classnames": "^2.2.5",
     "dom-listener": "^0.1.2",
-    "etch": "^0.12.6"
+    "etch": "^0.12.8"
   },
   "devDependencies": {
     "standard": "^10.0.3"
